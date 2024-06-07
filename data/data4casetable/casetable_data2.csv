@@ -1,0 +1,3 @@
+ID,Image,Mask
+p111,../data/data4casetable/data2/p111/Image/DCE_image.nii.gz,../data/data4casetable/data2/p111/Mask/DCE_mask.nii.gz
+p123,../data/data4casetable/data2/p123/Image/DCE_image.nii.gz,../data/data4casetable/data2/p123/Mask/DCE_mask.nii.gz

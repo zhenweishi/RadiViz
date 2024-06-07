@@ -1,0 +1,8 @@
+pandas
+SimpleITK
+numpy
+matplotlib
+pathlib
+monai
+pyyaml
+pyradiomics
