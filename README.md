@@ -1,6 +1,6 @@
-# Welcome toRadiViz Toolkit
+# Welcome to RadiViz Toolkit
 
-RadiViz Toolkit is a Python program designed to generate radiomics feature maps from medical images and save them locally. This toolkit leverages the power of radiomics to extract valuable features from medical images, aiding in various research and clinical applications.
+RadiViz Toolkit is a Python program designed to generate radiomics feature maps from medical images, such as CT, PET, MRI, US, X-ray. The RadiViz supports users to save them locally in different formats, such as EPS, PDF, PNG and so on. This toolkit leverages the power of radiomics to extract valuable features from medical images, aiding in various research and clinical applications.
 
 <!-- ## Table of Contents
 
@@ -15,12 +15,11 @@ RadiViz Toolkit is a Python program designed to generate radiomics feature maps 
 ## Features
 
 - Generate radiomics feature maps from medical images.
-- Support for multiple image types (e.g., Original, Wavelet, LoG).
+- Support for multiple image types (e.g., Original, Wavelet, LoG, Square and so on).
 - Configurable feature extraction parameters.
-- Save generated feature maps locally in a specified directory.
+- Save generated feature maps locally in a specified directory with various figure formats.
 
 ## Quick Start (1 mins)
-
 
 ```
 conda create --name radiviz python==3.9
@@ -42,8 +41,8 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ### Patient-level feature visualization
 
 <p align="center">
-  <img src="https://github.com/zhenweishi/FM-LCT/assets/17007301/610b8ab1-3495-47f5-87c9-e9e741716bce" width="500" height="440">
-  <img src="https://github.com/zhenweishi/FM-LCT/assets/17007301/9cdf2dfd-4dfc-452a-884e-b9143c3e0fcd" width="500" height="440">
+  <img src="https://github.com/zhenweishi/FM-LCT/assets/17007301/610b8ab1-3495-47f5-87c9-e9e741716bce" width="490" height="440">
+  <img src="https://github.com/zhenweishi/FM-LCT/assets/17007301/9cdf2dfd-4dfc-452a-884e-b9143c3e0fcd" width="490" height="440">
 </p>
 
 ### Feature-level visualization (examples)
