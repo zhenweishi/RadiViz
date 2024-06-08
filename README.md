@@ -41,8 +41,8 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ### Patient-level feature visualization
 
 <p align="center">
-  <img src="https://github.com/zhenweishi/FM-LCT/assets/17007301/610b8ab1-3495-47f5-87c9-e9e741716bce" width="490" height="440">
-  <img src="https://github.com/zhenweishi/FM-LCT/assets/17007301/9cdf2dfd-4dfc-452a-884e-b9143c3e0fcd" width="490" height="440">
+  <img src="https://github.com/zhenweishi/FM-LCT/assets/17007301/610b8ab1-3495-47f5-87c9-e9e741716bce" width="470" height="430">
+  <img src="https://github.com/zhenweishi/FM-LCT/assets/17007301/9cdf2dfd-4dfc-452a-884e-b9143c3e0fcd" width="470" height="430">
 </p>
 
 ### Feature-level visualization (examples)
